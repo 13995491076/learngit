@@ -1,0 +1,26 @@
+[
+    {"id":1,"sex":1,"name":"玄幻","count":453805},
+    {"id":2,"sex":1,"name":"奇幻","count":42150},
+    {"id":3,"sex":1,"name":"武侠","count":37184},
+    {"id":4,"sex":1,"name":"仙侠","count":118732},
+    {"id":5,"sex":1,"name":"都市","count":316797},
+    {"id":6,"sex":1,"name":"职场","count":14109},
+    {"id":7,"sex":1,"name":"历史","count":61890},
+    {"id":8,"sex":1,"name":"军事","count":13582},
+    {"id":9,"sex":1,"name":"游戏","count":74347},
+    {"id":10,"sex":1,"name":"竞技","count":5263},
+    {"id":11,"sex":1,"name":"科幻","count":101282},
+    {"id":12,"sex":1,"name":"灵异","count":29995},
+    {"id":13,"sex":1,"name":"同人","count":35626},
+    {"id":14,"sex":1,"name":"轻小说","count":4479},
+
+    {"id":15,"sex":0,"name":"古代言情","count":383023},
+    {"id":16,"sex":0,"name":"现代言情","count":454645},
+    {"id":17,"sex":0,"name":"青春校园","count":99537},
+    {"id":18,"sex":0,"name":"纯爱","count":115833},
+    {"id":19,"sex":0,"name":"玄幻奇幻","count":117298},
+    {"id":20,"sex":0,"name":"武侠仙侠","count":57604},
+    {"id":21,"sex":0,"name":"科幻","count":6316},
+    {"id":22,"sex":0,"name":"游戏竞技","count":5021},
+    {"id":23,"sex":0,"name":"悬疑灵异","count":11624}
+]
